@@ -1,7 +1,8 @@
 # LVAD
 Left Ventricular Assist Device Modelling and Simulation in Matlab / SIMULINK Environment
 
-Run the scripts in order,
+Run the scripts in order
+
 1) Run before_simulation.m
 2) Run simulation_.slx
 3) Run after_simulation if you want to compute left ventricle pressure versus left ventricle volume
