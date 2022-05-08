@@ -1,6 +1,11 @@
 # LVAD
 Left Ventricular Assist Device Modelling and Simulation in Matlab / SIMULINK Environment
 
+Run the scripts in order,
+1) Run before_simulation.m
+2) Run simulation_.slx
+3) Run after_simulation if you want to compute left ventricle pressure versus left ventricle volume
+
 ## REFERENCES
 
 [1] Dadgar, S. (2014). Validation of the first Turkish axial-flow left-ventricular assist device using particle image velocimetry (PIV) (Master's thesis, Fen Bilimleri Enstitüsü).
