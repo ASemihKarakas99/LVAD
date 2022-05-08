@@ -1,5 +1,5 @@
-# LVAD-
-Left Ventricular Assist Device 
+# LVAD
+Left Ventricular Assist Device Modelling and Simulation in Matlab / SIMULINK Environment
 
 Dadgar, S. (2014). Validation of the first Turkish axial-flow left-ventricular assist device using particle image velocimetry (PIV) (Master's thesis, Fen Bilimleri Enstitüsü).
 
